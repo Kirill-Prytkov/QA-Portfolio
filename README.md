@@ -72,6 +72,6 @@
 
 ---
 
-![QA Testing](https://img.shields.io/badge/QA-Testing-brightgreen) ![Automation](https://img.shields.io/badge/Automation-blue) ![Docker](https://img.shields.io/badge/Docker-orange)
+![QA Testing](https://img.shields.io/badge/QA-Testing-brightgreen) ![Docker](https://img.shields.io/badge/Docker-orange)
 
 Если у вас возникнут вопросы или пожелания, не стесняйтесь связаться со мной! 🚀
